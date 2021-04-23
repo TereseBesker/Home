@@ -1,2 +1,2 @@
-# PhD
-Publication List
+# Terese Besker
+PhD Software Engineering at Chalmers University of Technology
